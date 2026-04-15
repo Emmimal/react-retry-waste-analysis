@@ -6,7 +6,7 @@ ReAct agents waste 92.6% of retries. Here's the architecture fix (error taxonomy
 > **90.8% of retries in a standard ReAct agent are wasted on errors that can never succeed.**  
 > This repo contains the benchmark that found it — and the three structural fixes that eliminate it.
 
-📄 **Article:** [Your ReAct Agent Is Wasting 90% of Its Retries — And You Don't Even See It](https://towardsdatascience.com) *(Towards Data Science)*
+📄 **Article:** [Your ReAct Agent Is Wasting 90% of Its Retries — And You Don't Even See It](https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/) *(Towards Data Science)*
 
 ---
 
